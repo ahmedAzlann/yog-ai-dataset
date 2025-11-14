@@ -6,3 +6,5 @@ __pycache__/
 yogai_venv/
 credentials.json
 videos/
+# Ignore dataset files
+dataset/landmarks_for_training.csv
