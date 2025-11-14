@@ -3,3 +3,5 @@ yoga_env/
 venv/
 __pycache__/
 *.pyc
+yogai_venv/
+credentials.json
