@@ -8,3 +8,5 @@ credentials.json
 videos/
 # Ignore dataset files
 dataset/landmarks_for_training.csv
+models/yoga_pose_classifier.keras
+models/yoga_pose_classifier.tflite
